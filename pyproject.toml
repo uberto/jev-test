@@ -1,8 +1,9 @@
 [project]
 name = "jev-test"
 version = "0.1.0"
-description = "Add your description here"
+description = "Score Kotlin code against functional-programming principles with Jev, with confidence"
 requires-python = ">=3.14"
 dependencies = [
-    "jev>=0.3.0",
+    "python-dotenv>=1.2.3",
+    "typesafe-sdk>=0.7.0",
 ]

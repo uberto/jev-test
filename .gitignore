@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 .env
+results-*.json
+run-*.log
