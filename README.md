@@ -131,3 +131,7 @@ The summary also lists the verdict counts and the five least functional files.
   is sent with the file.
 - **Other languages and principle sets:** only the file glob and the question dictionaries are
   Kotlin- or book-specific.
+
+## License
+
+[MIT](LICENSE)

@@ -2,6 +2,7 @@
 name = "jev-test"
 version = "0.1.0"
 description = "Score Kotlin code against functional-programming principles with Jev, with confidence"
+license = "MIT"
 requires-python = ">=3.14"
 dependencies = [
     "python-dotenv>=1.2.3",
